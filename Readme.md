@@ -72,8 +72,10 @@ The application will be available at http://localhost:8502 in your web browser.
 - Adjust the forecasting models' parameters in the `forecast_arima` and `hybrid_forecast` functions
 - Customize the weighting in the scoring system for investment recommendations
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+## Contributors
+- [Sneha Venkatesh](https://github.com/sne-ha-v) – Sentiment Analysis & Visualization
+- [Amrutha Kanakatte Ravishankar](https://github.com/harithsya24) – Project Lead & Full-stack Development  
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
